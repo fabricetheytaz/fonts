@@ -1,0 +1,31 @@
+
+.logo
+	{
+	font-size: 30em;
+	text-align: center;
+	line-height: 1;
+	margin: 0;
+	padding: 0;
+	transform-origin: top center;
+	transform: skewY(-10deg);
+	}
+
+#glyphs
+	{
+	display: flex;
+	flex-wrap: wrap;
+	}
+
+.glyph
+	{
+	border: 1px solid silver;
+	border-radius: 4px;
+	margin: 1rem;
+	padding: 1rem;
+	}
+
+.glyph .bujo
+	{
+	line-height: 1;
+	font-size: 3rem;
+	}

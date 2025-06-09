@@ -1,0 +1,67 @@
+
+@font-face
+	{
+	font-family: Bujo;
+	font-weight: normal;
+	src: url(../fonts/bujo.ttf);
+	}
+
+.bujo
+	{
+	font-family: Bujo;
+	font-weight: normal;
+	}
+
+/* BUJO Dev */
+
+@font-face
+	{
+	font-family: BujoA;
+	font-weight: normal;
+	src: url(../fonts/bujo-a.ttf);
+	}
+
+@font-face
+	{
+	font-family: BujoB;
+	font-weight: normal;
+	src: url(../fonts/bujo-b.ttf);
+	}
+
+@font-face
+	{
+	font-family: BujoC;
+	font-weight: normal;
+	src: url(../fonts/bujo-c.ttf);
+	}
+
+@font-face
+	{
+	font-family: BujoD;
+	font-weight: normal;
+	src: url(../fonts/bujo-d.ttf);
+	}
+
+.bujo-a
+	{
+	font-family: BujoA;
+	font-weight: normal;
+	}
+
+.bujo-b
+	{
+	font-family: BujoB;
+	font-weight: normal;
+	}
+
+.bujo-c
+	{
+	font-family: BujoC;
+	font-weight: normal;
+	}
+
+.bujo-d
+	{
+	font-family: BujoD;
+	font-weight: normal;
+	}
